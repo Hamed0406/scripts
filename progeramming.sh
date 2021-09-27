@@ -11,5 +11,7 @@ sudo add-apt-repository "deb [arch=amd64] https://packages.microsoft.com/repos/v
 sudo  apt update -y
 sudo apt install code -y # instal VSC 
 sudo apt upgrade -y
+java -version
+mvn -version
 
 
