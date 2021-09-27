@@ -1,4 +1,5 @@
 #! /bin/sh
+clear
 sudo apt update -y  #Update all repo with yes  to all answer
 sudo apt-get install git  # git version handeling
 sudo apt-get install openjdk-8-jdk -y
